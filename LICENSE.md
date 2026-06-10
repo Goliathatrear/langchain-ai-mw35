@@ -1,4 +1,4 @@
-# 
+# Leve LangChain temas. Com web scraping e engenharia de prompts — otimizado para máximo desempenho e eficiência.
 
 
 
